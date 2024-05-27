@@ -13,6 +13,7 @@
         * Augmented Model
         * Final Model
     * Conclusion
+    * Acknowledgements
     * Technologies Used
     * Contact
    
@@ -85,6 +86,11 @@ Addressed class imbalance
 
 In conclusion, the project successfully developed a custom CNN model for melanoma detection using the ISIC dataset.
 
+## Acknowledgements
+Give credit here.
+
+This project was inspired by upGrad
+upGrad Portal
 
 
 ## Technologies Used
