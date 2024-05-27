@@ -54,7 +54,7 @@ The data set contains the following diseases:
 * Training the final model and testing the model
 * Verifying the model
 
-###Project Pipeline:
+### Project Pipeline:
 Data Reading/Data Understanding
 Dataset Creation: Creating Train/Validation datasets
 Dataset visualisation: Visualizing one image per class
