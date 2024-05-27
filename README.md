@@ -90,7 +90,6 @@ In conclusion, the project successfully developed a custom CNN model for melanom
 Give credit here.
 
 This project was inspired by upGrad
-upGrad Portal
 
 
 ## Technologies Used
