@@ -55,15 +55,15 @@ The data set contains the following diseases:
 * Verifying the model
 
 ### Project Pipeline:
-Data Reading/Data Understanding
-Dataset Creation: Creating Train/Validation datasets
-Dataset visualisation: Visualizing one image per class
-Model building and training
-Addressing Overfitting
-Addressing low accurachy
-Addressing class imbalance
-Rerunning the model after making the above changes
-Visualizing the validation loss and accuracy
+* Data Reading/Data Understanding
+* Dataset Creation: Creating Train/Validation datasets
+* Dataset visualisation: Visualizing one image per class
+* Model building and training
+* Addressing Overfitting
+* Addressing low accurachy
+* Addressing class imbalance
+* Rerunning the model after making the above changes
+* Visualizing the validation loss and accuracy
 
 ### Results
 - Baseline Model
