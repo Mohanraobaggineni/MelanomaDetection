@@ -1,8 +1,5 @@
 # CNN based Melanoma Detection Model
- CNN based model which can accurately detect melanoma
-
-# CNN Based Model To detect Melenoma
-> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes. The Gradio library is used to create a web app for the model prediction. The model predicts with an 87% accuracy.
+> This project uses a custom CNN to detect melanoma in images of skin lesions among 9 classes. 
 
 
 ## Table of Contents
@@ -201,4 +198,4 @@ Augmentor-0.2.12
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Contact
-Created by [@Mohanraobaggineni] - feel free to contact me!
+Created by [@MohanRaoB] - feel free to contact me!
